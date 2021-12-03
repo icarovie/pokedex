@@ -1,3 +1,17 @@
+# Trabalho Prático: Etapa 1 - Teste de Software
+
+### Alunos:
+- Guilherme Pereira
+- Icaro Henrique Vieira Pinheiro
+- Joao Gabriel Paiva Gontijo
+
+### Sistema
+
+### Tecnologias Utilizadas
+A aplicação foi criada em React.js. O React é uma biblioteca JavaScript de código aberto usada para construir interfaces de usuário especificamente para aplicativos de página única.
+Além disso, para realizar os testes foi utilizado o Jest (um framework de testes para javascript), bem como as ferramentas do testing library do React para buscar os elementos na tela.
+
+a nossa aplicação foi feita em react e pra testes a estrutura é do jest e a testing library do react como ferramenta pra buscar os elementos na tela
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
