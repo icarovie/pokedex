@@ -17,6 +17,13 @@ A aplicação foi criada em React.js. O React é uma biblioteca JavaScript de c�
 
 Além disso, para realizar os testes foi utilizado o Jest (um framework de testes para javascript), bem como as ferramentas da testing library do React para buscar os elementos na tela.
 
+
+### Pré-Requisitos
+Para executar o sistema é preciso ter duas ferramentas instaladas, o node e o NPM.   
+
+O node pode ser baixado no seguinte site: https://nodejs.org/en/download/, 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
