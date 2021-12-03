@@ -51,7 +51,8 @@ const PokemonList = () => {
           fullWidth
           type="text"
           id="search"
-          value="search"
+          inputProps={{ "data-testid": "search-bar" }}
+          value={search}
           label="Pesquisar"
           defaultValue={search}
           onChange={event => {
