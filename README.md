@@ -23,7 +23,7 @@ Para rodar o sistema é preciso ter duas ferramentas instaladas, o node e o NPM.
 
 O node e o NPM podem ser baixados no seguinte site: https://nodejs.org/en/download/. Depois de baixar o arquivo, basta seguir o processo de instalação.
 
-Caso possua um sistemna linux, o node pode ser instalado diretamente pelo terminal por meio do comando "sudo apt install nodejs". Para instalar o NPM basta digitar "sudo apt install npm" também no terminal.
+Caso possua um sistema linux, o node pode ser instalado diretamente pelo terminal por meio do comando "sudo apt install nodejs". Para instalar o NPM basta digitar "sudo apt install npm" também no terminal.
 
 
 ### Instruções Para Execução
@@ -31,6 +31,7 @@ Para rodar o programa localmente, basta seguir os seguintes passos:
 - Abrir o terminal dentro da pasta do sistema
 - Digitar o comando npm install
 - Digitar o comando npm start  
+
 Depois que o último comando for executado, o sistema será aberto automaticamente em uma janela no navegador.
 
 
